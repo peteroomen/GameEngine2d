@@ -1,0 +1,5 @@
+c:\users\peter\documents\visual studio 2013\Projects\2dGraphicsEngine\2dGraphicsEngine\obj\Debug\2dGraphicsEngine.dll
+c:\users\peter\documents\visual studio 2013\Projects\2dGraphicsEngine\2dGraphicsEngine\obj\Debug\2dGraphicsEngine.pdb
+c:\users\peter\documents\visual studio 2013\Projects\2dGraphicsEngine\2dGraphicsEngine\bin\Debug\2dGraphicsEngine.dll
+c:\users\peter\documents\visual studio 2013\Projects\2dGraphicsEngine\2dGraphicsEngine\bin\Debug\2dGraphicsEngine.pdb
+c:\users\peter\documents\visual studio 2013\Projects\2dGraphicsEngine\2dGraphicsEngine\obj\Debug\GraphicsEngine2d.csprojResolveAssemblyReference.cache
